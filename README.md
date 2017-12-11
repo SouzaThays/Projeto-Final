@@ -5,6 +5,8 @@
 #### PHP
 #### JavaScript
 #### jQuery
+#### HTML
+#### CSS
 ## Ferramentas:
 #### Visual Studio
 
